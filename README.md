@@ -3,4 +3,6 @@
 
 Die Code ist in Document Train.py.
 
-Das Datenset kann nicht hochgeladen werden, weil es ist zu größ und mehr als 1GB.
+Verarbeitung.py : Transformiert die MRS Bilder zu Array von npy
+Vor_dataset.py  : Array wird in ein Format transformiert, damit es vom trainierten Modell verwendet werden kann
+modell_vergleich.py : Trainsmodell basiert auf Resnet als Vergleichung
